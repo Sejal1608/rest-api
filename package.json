@@ -1,0 +1,28 @@
+{
+  "name": "lazytemptingpackagedsoftware",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "server.js",
+  "dependencies": {
+    "app": "^0.1.0",
+    "data-uri-to-buffer": "^4.0.0",
+    "details": "^1.0.0",
+    "express": "^4.18.2",
+    "fetch-blob": "^3.1.5",
+    "formdata-polyfill": "^4.0.10",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.22",
+    "Router": "^2.1.0",
+    "web-streams-polyfill": "^3.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restful",
+    "api"
+  ],
+  "author": "sejal",
+  "license": "ISC"
+}
